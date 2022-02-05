@@ -1,0 +1,5 @@
+dynamic content in html
+
+there is ejs code
+ejs view engine views it and renders it 
+sends in form of proper html syntax in the webpage 
